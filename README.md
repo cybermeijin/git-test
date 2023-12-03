@@ -1,2 +1,4 @@
 # git-test
-Only testing
+
+My first Github repo within the Odin Project learning
+Hello Odin!
